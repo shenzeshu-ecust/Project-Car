@@ -1,0 +1,8 @@
+/* pages/api/api.wxss */
+
+.container{
+  padding: 10rpx;
+}
+.res {
+  width: 90%;
+}

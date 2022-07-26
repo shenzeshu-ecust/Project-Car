@@ -1,0 +1,21 @@
+<!--pages/api/api.wxml-->
+<view class="container">
+<button bindtap="getUserInfo">getUserInfo</button>
+<button bindtap="showActionSheet">showActionSheet</button>
+<button bindtap="showToast">showToast</button>
+<button bindtap="hideToast">hideToast</button>
+<button bindtap="showLoading">showLoading</button>
+<button bindtap="setStorage">setStorage</button>
+<button bindtap="setStorageSync">setStorageSync</button>
+<button bindtap="getStorage">getStorage</button>
+<button bindtap="getStorageSync">getStorageSync</button>
+<button bindtap="removeStorage">removeStorage</button>
+<button bindtap="removeStorageSync">removeStorageSync</button>
+<button bindtap="clearStorage">clearStorage</button>
+<button bindtap="clearStorageSync">clearStorageSync</button>
+<button bindtap="redirectTo">redirectTo</button>
+<button bindtap="navigateBack">navigateBack</button>
+<button bindtap="setNavigationBarTitle">setNavigationBarTitle</button>
+
+<text class="res" >{{ res }}</text>
+</view>

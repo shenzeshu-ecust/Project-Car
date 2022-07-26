@@ -1,0 +1,1 @@
+console.log('esbuild 不走 commonjs')

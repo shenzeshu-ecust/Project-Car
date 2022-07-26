@@ -1,0 +1,41 @@
+{
+  "engine": "mini",
+  "pagesJSON": {
+    "pages/index/index": {
+      "pageName": "WeChat",
+      "pageJSON": {
+        "usingComponents": {},
+        "navigationBarTitleText": "WeChat"
+      },
+      "watermarkType": "shade"
+    },
+    "pages/api/api": {
+      "pageName": "WeChat",
+      "pageJSON": {
+        "usingComponents": {},
+        "navigationBarTitleText": "WeChat"
+      },
+      "watermarkType": "shade"
+    }
+  },
+  "gatewayDomains": "",
+  "hybridDomains": "",
+  "pages": [
+    "pages/index/index",
+    "pages/api/api"
+  ],
+  "__origin": {
+    "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "WeChat",
+      "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json",
+    "version": "v2",
+    "socketDomain": ""
+  },
+  "version": "v2",
+  "socketDomain": ""
+}

@@ -1,0 +1,18 @@
+{
+  "pages/index/index": {
+    "pageName": "WeChat",
+    "pageJSON": {
+      "usingComponents": {},
+      "navigationBarTitleText": "WeChat"
+    },
+    "watermarkType": "shade"
+  },
+  "pages/api/api": {
+    "pageName": "WeChat",
+    "pageJSON": {
+      "usingComponents": {},
+      "navigationBarTitleText": "WeChat"
+    },
+    "watermarkType": "shade"
+  }
+}
